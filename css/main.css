@@ -1,0 +1,363 @@
+body {
+	padding: 0px;
+	margin: 0px;
+	font-family: 'Ubuntu', sans-serif; 
+}
+
+
+
+article, div, a {
+	box-sizing: border-box;
+}
+
+a {
+	transition: 2s ease-out;
+}
+
+.clearfix:after {
+	content:'';
+	display: table;
+	width: 100%;
+}
+
+.f11px {font-size: 11px;}
+.f12px {font-size: 12px;}
+.f13px {font-size: 13px;}
+.f14px {font-size: 14px;}
+.f15px {font-size: 15px;}
+.f16px {font-size: 16px;}
+.f17px {font-size: 17px;}
+.f18px {font-size: 18px;}
+.f19px {font-size: 19px;}
+.f20px {font-size: 20px;}
+.f21px {font-size: 21px;}
+.f22px {font-size: 22px;}
+.f23px {font-size: 23px;}
+.f24px {font-size: 24px;}
+.f25px {font-size: 25px;}
+.f26px {font-size: 26px;}
+.f27px {font-size: 27px;}
+.f28px {font-size: 28px;}
+.f29px {font-size: 29px;}
+.f30px {font-size: 30px;}
+.f31px {font-size: 31px;}
+.f32px {font-size: 32px;}
+.f33px {font-size: 33px;}
+.f34px {font-size: 34px;}
+.f35px {font-size: 35px;}
+.f36px {font-size: 36px;}
+.f37px {font-size: 37px;}
+.f38px {font-size: 38px;}
+.f39px {font-size: 39px;}
+.f40px {font-size: 40px;}
+.f41px {font-size: 41px;}
+.f42px {font-size: 42px;}
+.f43px {font-size: 43px;}
+.f44px {font-size: 44px;}
+.f45px {font-size: 45px;}
+.f46px {font-size: 46px;}
+.f47px {font-size: 47px;}
+.f48px {font-size: 48px;}
+.f49px {font-size: 49px;}
+.f50px {font-size: 50px;}
+.f51px {font-size: 51px;}
+.f52px {font-size: 52px;}
+.f53px {font-size: 53px;}
+.f54px {font-size: 54px;}
+.f55px {font-size: 55px;}
+.f56px {font-size: 56px;}
+.f57px {font-size: 57px;}
+.f58px {font-size: 58px;}
+.f59px {font-size: 59px;}
+.f60px {font-size: 60px;}
+.f61px {font-size: 61px;}
+.f62px {font-size: 62px;}
+.f63px {font-size: 63px;}
+.f64px {font-size: 64px;}
+.f65px {font-size: 65px;}
+.f66px {font-size: 66px;}
+.f67px {font-size: 67px;}
+.f68px {font-size: 68px;}
+.f69px {font-size: 69px;}
+.f70px {font-size: 70px;}
+
+.upper {
+	text-transform: uppercase;
+}
+
+.aligner {
+	text-align: center;
+}
+
+.centro {
+	margin: 20px auto;
+}
+
+.centro_1 {
+	margin: 30px auto;
+	padding-top: 37.5vh;
+}
+
+.h1 {
+	font-family: 'Ubuntu';
+}
+
+.shadow {
+	text-shadow: 5px 5px 15px rgba(0, 0, 0, 0.85);
+}
+
+.deep-shadow {
+	text-shadow: 3px 3px 10px rgba(0, 0, 0, 0.95);
+}
+
+.shadow-text {
+	text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.85);
+}
+
+.interval {
+	padding-top: 25vh;
+}
+
+.white {
+	color: #fff;
+}
+
+
+.bold {
+	font-weight: 700;
+}
+
+
+.lefter {
+	float: left;
+}
+
+.righter {
+	float: right;
+}
+
+.picture {
+	background: url(../img/fon.jpg) no-repeat 50% 50% fixed;
+	background-size: cover;
+	height: 100vh;
+}
+
+.menu {
+	list-style: none;
+	margin: 0px;
+	padding: 0px;
+	overflow: hidden;
+
+}
+
+.month {
+	position: relative;
+	top: 5vh;
+}
+
+
+.main-menu ul {
+	padding: 0;
+	margin-top: 7vh;
+	margin-bottom: 0;
+}
+
+.main-menu li {
+	display: block;
+	width: 300px;
+	margin-top: 12px;
+	font-size: 21.5px;
+	font-weight: 400;
+}
+
+.main-menu a {
+	color: #ffffff;
+	text-decoration: none;
+}
+
+.main-menu li:hover {
+	transform: scale(1.01, 1.01);
+}
+
+
+.menu ul {
+	padding: 0;
+	overflow: hidden;
+}
+
+.menu li {
+	display: block;
+	padding: 11px 11px;
+	width: 240px;
+	border: 1.15px solid #ffffff;
+	border-radius: 5px;
+	background: rgba(255, 255, 255, 0.25);
+	margin-top: 13px;
+	font-size: 18px;
+	font-weight: 700;
+	
+}
+
+.February .menu li {
+	background: rgba(255, 255, 255, 0.4);
+}
+
+.February .menu a {
+	color: #7b33b4;
+}
+
+.March .menu li {
+	background: rgba(255, 255, 255, 0.2);
+}
+
+.April .menu li {
+	background: rgba(255, 255, 255, 0.3);
+}
+
+.May .menu li {
+	background: rgba(255, 255, 255, 0.5);
+}
+
+.May .menu a {
+	color: #7237b6;
+}
+
+.July .menu li {
+	background: rgba(255, 255, 255, 0.3);
+}
+
+.July .menu a {
+	color: #b35fff;
+}
+
+.October .menu li {
+	background: rgba(255, 255, 255, 0.05);
+}
+
+.November .menu li {
+	background: rgba(255, 255, 255, 0.05);
+}
+
+.December .menu li {
+	background: rgba(255, 255, 255, 0.1);
+}
+.menu a {
+	color: #ffffff;
+	text-decoration: none;
+}
+
+.menu li:hover {
+	opacity: 0.75;
+}
+
+.bottom {
+	padding-bottom: 5vh;
+}
+
+.January {
+	background: url(../img/1_January-min.jpg) no-repeat 50% 50% fixed; 
+	background-size: auto 100vh;
+	margin-left: auto;
+	margin-right: auto;
+	position: relative;
+	height: 100vh;
+}
+
+.February {
+	background: url(../img/2_February-min.jpg) no-repeat 50% 50% fixed; 
+	background-size: auto 100vh;
+	margin-left: auto;
+	margin-right: auto;
+	position: relative;
+	height: 100vh;
+}
+
+.March {
+	background: url(../img/3_March-min.jpg) no-repeat 50% 50% fixed; 
+	background-size: auto 100vh;
+	margin-left: auto;
+	margin-right: auto;
+	position: relative;
+	height: 100vh;
+}
+
+.April {
+	background: url(../img/4_April-min.jpg) no-repeat 50% 50% fixed; 
+	background-size: auto 100vh;
+	margin-left: auto;
+	margin-right: auto;
+	position: relative;
+	height: 100vh;
+}
+
+.May {
+	background: url(../img/5_May-min.jpg) no-repeat 50% 50% fixed; 
+	background-size: auto 100vh;
+	margin-left: auto;
+	margin-right: auto;
+	position: relative;
+	height: 100vh;
+}
+
+.June {
+	background: url(../img/6_June-min.jpg) no-repeat 50% 50% fixed; 
+	background-size: auto 100vh;
+	margin-left: auto;
+	margin-right: auto;
+	position: relative;
+	height: 100vh;
+}
+
+.July {
+	background: url(../img/7_July-min.jpg) no-repeat 50% 50% fixed; 
+	background-size: auto 100vh;
+	margin-left: auto;
+	margin-right: auto;
+	position: relative;
+	height: 100vh;
+}
+
+.August {
+	background: url(../img/8_August-min.jpg) no-repeat 50% 50% fixed; 
+	background-size: auto 100vh;
+	margin-left: auto;
+	margin-right: auto;
+	position: relative;
+	height: 100vh;
+}
+
+.September {
+	background: url(../img/9_September-min.jpg) no-repeat 50% 50% fixed; 
+	background-size: auto 100vh;
+	margin-left: auto;
+	margin-right: auto;
+	position: relative;
+	height: 100vh;
+}
+
+.October {
+	background: url(../img/10_October-min.jpg) no-repeat 50% 50% fixed; 
+	background-size: auto 100vh;
+	margin-left: auto;
+	margin-right: auto;
+	position: relative;
+	height: 100vh;
+}
+
+.November {
+	background: url(../img/11_November-min.jpg) no-repeat 50% 50% fixed; 
+	background-size: auto 100vh;
+	margin-left: auto;
+	margin-right: auto;
+	position: relative;
+	height: 100vh;
+}
+
+.December {
+	background: url(../img/12_December-min.jpg) no-repeat 50% 50% fixed; 
+	background-size: auto 100vh;
+	margin-left: auto;
+	margin-right: auto;
+	position: relative;
+	height: 100vh;
+}
