@@ -32,6 +32,10 @@ a {
 .f_6 {font-size: 7vh;}
 .f_7 {font-size: 5vh;}
 
+.f-w_100 {font-weight: 100;}
+.f-w_300 {font-weight: 300;}
+.f-w_400 {font-weight: 400;}
+.f-w_700 {font-weight: 700;}
 
 .upper {
 	text-transform: uppercase;
@@ -60,10 +64,10 @@ a {
 	width: 100%;
 }
 .h1 {
-	font-weight: 400;
+
 }
 .h2 {
-	font-weight: 300;
+
 }
 
 .shadow {
@@ -142,9 +146,10 @@ a {
 .stone {
 	width: 50vw;
 	height: 50vh;
-	background: url(../img/04_06-min.png) no-repeat center center / 110%;
+	background: url(../img/04_06-min.png) no-repeat center center / 98%;
 	float: left;
 	margin-top: 25vh;
+
 }
 
 .content_2 {
