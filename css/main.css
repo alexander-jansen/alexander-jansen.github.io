@@ -20,17 +20,21 @@ a {
 	width: 100%;
 }
 
+article {
+	margin: 0px auto;
+	position: relative;
+}
 .animated {
 
 }
 
-.f_1 {font-size: 9.5vh;}
-.f_2 {font-size: 6vh;}
-.f_3 {font-size: 4vh;}
-.f_4 {font-size: 3vh;}
-.f_5 {font-size: 2.7vh;}
-.f_6 {font-size: 7vh;}
-.f_7 {font-size: 5vh;}
+.f_1 {font-size: 6.35vw;}
+.f_2 {font-size: 4vw;}
+.f_3 {font-size: 2.8vw;}
+.f_4 {font-size: 1.8vw;}
+.f_5 {font-size: 1.75vw;}
+.f_6 {font-size: 5vw;}
+.f_7 {font-size: 3vw;}
 
 .f-w_100 {font-weight: 100;}
 .f-w_300 {font-weight: 300;}
@@ -144,13 +148,13 @@ a {
 }
 
 .stone {
-	width: 50vw;
-	height: 50vh;
-	background: url(../img/04_06-min.png) no-repeat center center / 98%;
-	float: left;
-	margin-top: 25vh;
+	 width: 50vw;
+	 height: 50vh;
+	 background: url(../img/04_06-min.png) no-repeat center center / 98%;
+	 float: left;
+	 margin-top: 25vh;
 
-}
+ }
 
 .content_2 {
 	display: flex;

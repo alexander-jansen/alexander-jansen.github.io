@@ -1,12 +1,85 @@
-@media screen and (max-width: 1160px) {
+@media screen and (max-width: 1024px) {
 
-
-	
 }
 
-@media screen and (max-width: 768px) {
 
+
+
+@media screen and (max-width: 768px) {
+	.article {
+		width: 90%;
 	}
+	.interval {
+		padding-top: 30.5vh;
+	}
+	.content {
+		display: flex;
+		flex-direction: column;
+		justify-content: space-around;
+		margin: 15vh auto 15vh auto;
+	}
+	.circle {
+		width: 40vw;
+		height: 40vw;
+		border-radius: 20vw;
+		margin: 0 auto 0 auto;
+	}
+	.text_1 {
+		margin: 2vh auto 0 auto;
+	}
+	.text_2 {
+		margin: 2vh auto 0 auto;
+		width: 70vw;
+	}
+	.f_1 {font-size: 9vw;}
+	.f_2 {font-size: 5.7vw;}
+	.f_3 {font-size: 6vw;}
+	.f_4 {font-size: 4vw;}
+	.f_5 {font-size: 3.8vw;}
+	.f_6 {font-size: 8vw;}
+	.f_7 {font-size: 6vw;}
+	.wood {
+		display: flex;
+		flex-direction: column;
+		justify-content: space-around;
+		margin: 0 auto 0 auto;
+	}
+	.stone {
+		width: 65vw;
+		margin: 0 auto 0 auto;
+	}
+	.content_2 {
+		width: 80vw;
+		margin: -3vh auto 0 auto;
+	}
+	.point {
+		width: 80vw;
+		text-align: center;
+		margin-bottom: 2vh;
+		padding: 2vh 2vw 2vh 2vw;
+	}
+	.last {
+		display: flex;
+		flex-direction: column;
+		justify-content: space-around;
+		margin: 0 auto 0 auto;
+	}
+	.adress {
+		width: 90vw;
+		margin: 0 auto 0 auto;
+	}
+	.map {
+		width: 100vw;
+		margin: 0 auto 0 auto;
+	}
+	.point_1 {
+		padding-top: 2vh;
+	}
+	.point_2 {
+		padding-top: 2vh;
+	}
+
+}
 
 	
 
