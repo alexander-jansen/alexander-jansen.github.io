@@ -60,10 +60,10 @@ a {
 	width: 100%;
 }
 .h1 {
-	font-family: 'Roboto Slab', serif;
+	font-weight: 400;
 }
 .h2 {
-	font-family: 'Roboto Slab thin', serif;
+	font-weight: 300;
 }
 
 .shadow {
@@ -83,7 +83,7 @@ a {
 }
 
 .interval {
-	padding-top: 0vh;
+	padding-top: 26vh;
 }
 
 .white {
