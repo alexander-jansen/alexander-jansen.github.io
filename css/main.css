@@ -130,7 +130,7 @@ article {
 	width: 20vw;
 	height: 20vw;
 	border-radius: 10vw;
-	background: url(../img/jansen-min.jpg) no-repeat center center / 128%;
+	background: url(../img/0013_01.jpg) no-repeat center center / 128%;
 	margin: auto 5vh auto 10vh;
 	float: left;
 }
@@ -142,7 +142,7 @@ article {
 }
 
 #third {
-	background: url(../img/fon_wood-min.jpg) no-repeat center center / cover;
+	background: url(../img/020-min.jpg) no-repeat center center / cover;
 	height: 100vh;
 	box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.35);
 }
@@ -150,7 +150,7 @@ article {
 .stone {
 	 width: 50vw;
 	 height: 50vh;
-	 background: url(../img/04_06-min.png) no-repeat center center / 98%;
+	 background: url(../img/04_08-min.png) no-repeat center center / cover;
 	 float: left;
 	 margin-top: 25vh;
 
@@ -199,7 +199,7 @@ article {
 .map {
 	width: 50vw;
 	height: 50vh;
-	background: url(../img/map-min.jpg) no-repeat center center / 100%;
+	background: url(../img/map-min.jpg) no-repeat center center / cover;
 	float: right;
 	margin-top: 25vh;
 	margin-right: 3vw;

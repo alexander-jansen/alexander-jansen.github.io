@@ -9,6 +9,9 @@
 	.article {
 		width: 90%;
 	}
+	br {
+		display: none;
+	}
 	.interval {
 		padding-top: 30.5vh;
 	}
